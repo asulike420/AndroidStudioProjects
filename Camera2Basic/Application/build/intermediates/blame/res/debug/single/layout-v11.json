@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/abhaysingh/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/abhaysingh/.android/build-cache/1616c0c5039eeb2d96a55a307824e11be4edb297/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/abhaysingh/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/abhaysingh/.android/build-cache/1616c0c5039eeb2d96a55a307824e11be4edb297/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/abhaysingh/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/abhaysingh/.android/build-cache/1616c0c5039eeb2d96a55a307824e11be4edb297/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/abhaysingh/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/abhaysingh/.android/build-cache/1616c0c5039eeb2d96a55a307824e11be4edb297/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/abhaysingh/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/abhaysingh/.android/build-cache/1616c0c5039eeb2d96a55a307824e11be4edb297/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/abhaysingh/AndroidStudioProjects/Camera2Basic/Application/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/abhaysingh/.android/build-cache/1616c0c5039eeb2d96a55a307824e11be4edb297/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

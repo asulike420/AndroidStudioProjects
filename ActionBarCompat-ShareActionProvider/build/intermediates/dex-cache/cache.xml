@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/abhaysingh/.android/build-cache/5981f22ab182211d736ca8dc2be922158457bac0/output/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/abhaysingh/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_6a3c866212f0d3681ba0adc3fc37b0e319d7202d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhaysingh/.android/build-cache/a3da1924255d313433498586f13fb31fa7f901bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a5380ddd58f4f8946ddade4c64dd77de4a836d5">
+        <dex dex="/Users/abhaysingh/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_1bab1f0ef167d76c8a42ea1acc476239cf97f009.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhaysingh/.android/build-cache/a85842df6db8e5715a0ada9f60f847908af98611/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/abhaysingh/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_cfe555c250896ad69058cc4caf3fd724a5aa3c9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhaysingh/.android/build-cache/5b53a6e5793c9da4288dd6fd2883ed24431beaf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/abhaysingh/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_0c89501d9d4fe3a13e0dcc0624848caa449aa58e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhaysingh/.android/build-cache/c57d2b5aed0856b7f3d016c84bd208364ab38786/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/abhaysingh/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_677fb855c606c2d303739819e0a2647518846525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhaysingh/.android/build-cache/2c8f9680b0117f18f59698c52a81d3d1c6ef3fbc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/Users/abhaysingh/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_b58eef37af6ba45b6a79aefe6abf3c5a9f4c3dc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhaysingh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/abhaysingh/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_65c01f59c0d65b68e284272558e883d3a4898697.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/abhaysingh/.android/build-cache/5981f22ab182211d736ca8dc2be922158457bac0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/abhaysingh/AndroidStudioProjects/ActionBarCompat-ShareActionProvider/Application/build/intermediates/pre-dexed/debug/classes_d6636f3ead4d2e1365ffc7c7b8164fdfca803c25.jar" />
+    </item>
+
+</items>
